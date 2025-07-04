@@ -11,6 +11,6 @@ A physics-based slingshot game made in Unity, designed for mobile. Players aim a
 - 💥 **Simple Visual Feedback**: Hit reactions and visual cues enhance gameplay experience.
 - 🔊 **Audio Feedback**: Includes basic background music and SFX for firing, hitting, and destruction.
 
-## 📹 Gameplay Video
+## 📹 Gameplay Video.
 
 [<img src="https://img.youtube.com/vi/txkNXg146OM/hqdefault.jpg" width="50%">](https://youtu.be/txkNXg146OM)
